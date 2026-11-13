@@ -1,16 +1,27 @@
-## Hi there 👋
+David Švancer
+Computer Science Master's Student
 
-<!--
-**davidsvancer/davidsvancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering | Backend Development
 
-Here are some ideas to get you started:
+Currently studying at MUNI FI
+Bachelor's degree from FIT VUT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+- C# / .NET
+- Java
+- Backend Development
+- Software Architecture
+- AI / RAG Applications
+
+Featured Projects:
+- Advanced RAG Travel Assistant
+- C# Advanced Application
+- Java Design Patterns
+- DNS Resolver in C
+- ESP32 Heart Rate Monitor
+
+Technologies:
+C | C# | Java | Python | SQL | Git
+
+LinkedIn
+Email
