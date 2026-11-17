@@ -9,6 +9,7 @@ Bachelor's degree from FIT VUT
 Interests:
 - C# / .NET
 - Java
+- C
 - Backend Development
 - Software Architecture
 - AI / RAG Applications
@@ -23,5 +24,5 @@ Featured Projects:
 Technologies:
 C | C# | Java | Python | SQL | Git
 
-LinkedIn
-Email
+LinkedIn: https://www.linkedin.com/in/david-svancer/
+Email: davidsvancer@seznam.cz
